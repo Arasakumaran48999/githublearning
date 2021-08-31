@@ -21,7 +21,7 @@ class Math {
 			return o % 2;
 		};
 		return p;
-	}
+	}							//changes
 
 	PerformOperation isPrime() {
 		PerformOperation p = (o) -> {
